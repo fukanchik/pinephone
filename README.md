@@ -7,4 +7,4 @@
 * Security: Before passcode screen it shows you the desktop!
 * Bluetooth is always on. Turns back on after reboots and unlocks.
 * No way to turn off passcode on unlock screen
-
+* cheese does not see any cameras (camera itself works)
