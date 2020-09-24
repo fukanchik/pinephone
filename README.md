@@ -9,6 +9,8 @@
 * No way to turn off passcode on unlock screen
 * cheese does not see any cameras (camera itself works)
 * powertop is not working (even dedicated ARM version)
+* back of the device is always hot
+* reboot menu is too small
 
 ## Dev setup
 I'm not interested in rebuilding the whole phone image from scratch every time. My setup is for developing user apps.
