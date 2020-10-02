@@ -11,6 +11,8 @@
 * powertop is not working (even dedicated ARM version)
 * back of the device is always hot
 * reboot menu is too small
+* autorotate does not work (being addressed)
+* does not switch automatically to headphones
 
 ## Dev setup
 I'm not interested in rebuilding the whole phone image from scratch every time. My setup is for developing user apps.
